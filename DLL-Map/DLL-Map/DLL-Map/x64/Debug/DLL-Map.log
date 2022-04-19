@@ -1,0 +1,3 @@
+﻿  ShortTest.cpp
+C:\Users\Mihai\Desktop\School\DSA\DLL-Map\Map.h(27): warning C4091: 'typedef ': ignored on left of 'Map::DLLNode' when no variable is declared
+  DLL-Map.vcxproj -> C:\Users\Mihai\Desktop\School\DSA\DLL-Map\DLL-Map\x64\Debug\DLL-Map.exe
